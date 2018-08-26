@@ -10,6 +10,7 @@ Java 8 and maven install on your system
 
 #Installing
 From command prompt execute command
+
 mvn clean
 mvn install : To execute all test case with build
 mvn spring-bot:run
