@@ -16,6 +16,7 @@ mvn install : To execute all test case with build
 mvn spring-bot:run
 
 OR
+
 After importing project to Eclipse/Intellj
 Go to file StringAccumulator/StringAccumulatorTest right click amd execute with desired options.
 
