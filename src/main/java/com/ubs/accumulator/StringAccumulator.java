@@ -8,7 +8,7 @@ public class StringAccumulator {
 
     public static final String EMPTY = "";
     public static final String DELIMITER_START = "//";
-
+//test
     public static int add(String number) {
         final int[] sumArray = {0};
 
